@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "토리"
 description              : "똑똑해져라 ~ ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚"
-url                      : "https://ezzanzzan.github.io"
+url                      : "https://ezzanzzan.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/clouds.png"
