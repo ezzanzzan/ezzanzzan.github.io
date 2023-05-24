@@ -22,10 +22,10 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "토리"
 description              : "똑똑해져라 ~ ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚"
 url                      : "https://ezzanzzan.github.io/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "ezzanzzan/ezzanzzan.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/clouds.png"
-logo                     : #"/assets/images/logo.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
